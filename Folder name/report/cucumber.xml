@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="2" time="20.125387">
+    <testcase classname="Scenarios Outline" name="Login functionality for a social networking site" time="10.313952">
+        <system-out>
+            <![CDATA[Given user navigates to Facebook............................................passed
+When I enter Username as "username1" and Password as "password1"............passed
+Then login should be unsuccessful...........................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Scenarios Outline" name="Login functionality for a social networking site 2" time="9.811435">
+        <system-out>
+            <![CDATA[Given user navigates to Facebook............................................passed
+When I enter Username as "username2" and Password as "password2"............passed
+Then login should be unsuccessful...........................................passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>
